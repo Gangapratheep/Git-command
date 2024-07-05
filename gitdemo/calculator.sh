@@ -21,3 +21,10 @@ Y = a - b
 
 
 #Multiplication
+#Division 
+
+
+#Percentage
+
+
+
