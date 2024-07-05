@@ -4,3 +4,11 @@
 
 
  X = A + b
+
+#Substraction 
+
+
+Y = a - b
+
+
+
